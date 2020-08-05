@@ -1,2 +1,2 @@
-The data used it this analysis was provided by [**DrugBank**](https://www.drugbank.ca) and downloaded from [**the Stanford university**] (https://snap.stanford.edu/biodata/index.html°) datasets platform. It consists of two columns [‘drug’, ‘gene’].
+The data used it this analysis was provided by [**DrugBank**](https://www.drugbank.ca) and downloaded from [**the Stanford university**](https://snap.stanford.edu/biodata/index.html) datasets platform. It consists of two columns [‘drug’, ‘gene’].
 Each drug is related to its target gene that codes for a certain protein so here the source nodes are the drugs and the destination is the target (gene).
